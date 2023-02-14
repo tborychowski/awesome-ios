@@ -16,6 +16,7 @@ A curated list of my iOS apps.
 - ★★ - Crappy app, not worth looking at it.
 - ★ - Absolutely dreadful app. I wish I hadn't seen it.
 
+Related list: [awesome-mac](https://github.com/tborychowski/awesome-mac)
 
 <br>
 
