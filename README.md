@@ -58,8 +58,9 @@ Related list: [awesome-mac](https://github.com/tborychowski/awesome-mac)
 
 
 
-# Social, News & Itenrnet
+# Social, News & Internet
 - [Apollo](https://apolloapp.io) ★★★★ - A beautiful Reddit app built for power and speed. Free, but you can get some niceties when buying pro (Pro: $5-$10).
+- [Reeder](https://reederapp.com) ★★★★★ - The best RSS reader for Apple devices (Paid: $10).
 
 
 
