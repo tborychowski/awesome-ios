@@ -64,5 +64,11 @@ Related list: [awesome-mac](https://github.com/tborychowski/awesome-mac)
 
 
 
+# System & Utilities
+- [1Password](https://1password.com) ★★★★★ - Best password manager (Subscription ~€36/yr).
+- [Adguard](https://adguard.com/en/welcome.html) ★★★★ 🔗 ($65) - System-wide ad-blocker. It's expensive but occasionally gets discounted (even down to $14).
+- [xsearch](https://apps.apple.com/ie/app/xsearch-for-safari/id1579902068) - app that allows to set custom search providers in safari (Paid: €3.50).
+
+
 # Task managers
 - [Things](https://culturedcode.com/things/) ★★★★★ - Best task manager (Paid: $10).
