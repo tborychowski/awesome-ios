@@ -19,6 +19,11 @@ Related list: [awesome-mac](https://github.com/tborychowski/awesome-mac)
 <br>
 
 
+# AI
+- [ChatGPT](https://openai.com/blog/introducing-the-chatgpt-app-for-ios) ★★★★ - Official app from OpenAI. Doesn't need a key, just a free account. (Free)
+
+
+
 # Bookmarks & collection managers
 - [GoodLinks](https://goodlinks.app) ★★★★ - quite good for the purpose (Paid: $5)
 
