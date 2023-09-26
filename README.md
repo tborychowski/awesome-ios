@@ -52,9 +52,10 @@ Related list: [awesome-mac](https://github.com/tborychowski/awesome-mac)
 
 
 
-# Games, Life and Other
+# Games, Music, Life and Other
 - [Meditation](https://meditationapp.wixsite.com/download-app) ★★★ - the app doesn't look much, but has 1 great feature: you can use any mp3 with guided meditation or music and customize everything else and the app will sync your mindfulness minutes to the Apple's Health app. And it's free!
 - [Lichess](https://lichess.org/mobile) ★★★ - less bloated than the chess.com and has unlimited free puzzles.
+- [SongShift](https://songshift.com) ★★★ - transfer playlists between music services (Subscription, $20/y).
 
 
 
