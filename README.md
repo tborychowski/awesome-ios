@@ -25,7 +25,8 @@ Related list: [awesome-mac](https://github.com/tborychowski/awesome-mac)
 
 
 # Bookmarks & collection managers
-- [GoodLinks](https://goodlinks.app) ★★★★ - quite good for the purpose (Paid: $5)
+- [Anybox](https://anybox.app) ★★★★ - best bookmark storage app (Sub: $15/yr, lifetime: $40)
+- [GoodLinks](https://goodlinks.app) ★★★ - quite good for the purpose (Paid: $5)
 
 
 # Development
@@ -36,10 +37,11 @@ Related list: [awesome-mac](https://github.com/tborychowski/awesome-mac)
 
 
 # Notes and writing
-- [Ulysses](https://ulysses.app) ★★★★★ - writing app (Subscription: $50/year).
-- [Craft](https://www.craft.do) ★★★★ - note taking and organizing app (Subscription: $60/year, with a limited free option).
-- [Bear](https://bear.app/) ★★★★ - note taking (Subscription: $15/year).
+- [Bear](https://bear.app/) ★★★ - note taking (Subscription: $30/year).
+- [Craft](https://www.craft.do) ★★★ - note taking and organizing app (Subscription: $60/year, with a limited free option).
+- [Evernote](https://evernote.com) ★★★★★ - the ultimate workhorse of a note taking app. Minimum friction, maximum usability, integrates with everything and has everything I need. Oh, and no markdown!! (Subscription: ~$99/year, but frequent discounts ~40%).
 - [Mela](https://mela.recipes) ★★★★★ - simple, elegant and modern recipe manager. (Paid: $5)
+- [Ulysses](https://ulysses.app) ★★★★★ - writing app (Subscription: $50/year).
 
 
 
@@ -62,12 +64,14 @@ Related list: [awesome-mac](https://github.com/tborychowski/awesome-mac)
 # Productivity & automation
 - [Fantastical](https://flexibits.com/fantastical) ★★★★★ - probably the best calendar app for mac (Subscription ~€44/yr)
 - [Parcel](https://parcelapp.net) ★★★★ - Tracks deliveries and can automatically fetch amazon orders! (Subscription ~€3.5/yr)
+- [Things](https://culturedcode.com/things/) ★★★★★ - Best task manager (Paid: $10).
 
 
 
 # Social, News & Internet
-- [Apollo](https://apolloapp.io) ★★★★ - A beautiful Reddit app built for power and speed. Free, but you can get some niceties when buying pro (Pro: $5-$10).
+- [Readwise Reader](https://readwise.io/read) ★★★★ - A fantastic read-it-later app that in conjunction with the readwise service (syncing highlights between your reader, books, kindle and your pkn/notes apps) is unstoppable (Sub: $96/yr while in beta).
 - [Reeder](https://reederapp.com) ★★★★★ - The best RSS reader for Apple devices (Paid: $10).
+- [Spark](https://sparkmailapp.com) ★★★★ - Email client from Readdle. One of the best out there (if you're using anything else than gmail) (Basic: free, full featured, including some AI: €70/yr).
 
 
 
@@ -75,7 +79,3 @@ Related list: [awesome-mac](https://github.com/tborychowski/awesome-mac)
 - [1Password](https://1password.com) ★★★★★ - Best password manager (Subscription ~€36/yr).
 - [Adguard](https://adguard.com/en/welcome.html) ★★★★ 🔗 ($65) - System-wide ad-blocker. It's expensive but occasionally gets discounted (even down to $14).
 - [xsearch](https://apps.apple.com/ie/app/xsearch-for-safari/id1579902068) - app that allows to set custom search providers in safari (Paid: €3.50).
-
-
-# Task managers
-- [Things](https://culturedcode.com/things/) ★★★★★ - Best task manager (Paid: $10).
