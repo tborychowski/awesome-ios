@@ -34,6 +34,7 @@ Related list: [awesome-mac](https://github.com/tborychowski/awesome-mac)
 - [Textastic](https://www.textasticapp.com) ★★★★ - pretty neat code editor on a phone (or tablet). (Paid: $10)
 - [ShellFish](https://secureshellfish.app) ★★★★ - probably the best ssh terminal emulator on mobile. (Subscription: $10/y or Lifetime: $40)
 - [Web Inspector for iOS](https://andadinosaur.com/launch-web-inspector-for-ios) *** - web inspector for iOS Safari.
+- [fontcase](https://apps.iconfactory.com) ★★★ - font manager for iOS.
 
 
 # Notes and writing
@@ -58,6 +59,7 @@ Related list: [awesome-mac](https://github.com/tborychowski/awesome-mac)
 - [Meditation](https://meditationapp.wixsite.com/download-app) ★★★ - the app doesn't look much, but has 1 great feature: you can use any mp3 with guided meditation or music and customize everything else and the app will sync your mindfulness minutes to the Apple's Health app. And it's free!
 - [Lichess](https://lichess.org/mobile) ★★★ - less bloated than the chess.com and has unlimited free puzzles.
 - [SongShift](https://songshift.com) ★★★ - transfer playlists between music services (Subscription, $20/y).
+- [Blank Spaces](https://www.blankspaces.app) ★★★ - Remove all distraction from your iPhone: provides blank widgets, dock-hiding wallpapers, and a simple widget with a textual list of the most important apps. (Subscription: €15/y, lifetime: €25).
 
 
 
