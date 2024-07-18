@@ -39,8 +39,8 @@ Related list: [awesome-mac](https://github.com/tborychowski/awesome-mac)
 
 # Notes and writing
 - [Bear](https://bear.app/) ★★★ - note taking (Subscription: $30/year).
-- [Craft](https://www.craft.do) ★★★ - note taking and organizing app (Subscription: $60/year, with a limited free option).
-- [Evernote](https://evernote.com) ★★★★★ - the ultimate workhorse of a note taking app. Minimum friction, maximum usability, integrates with everything and has everything I need. Oh, and no markdown!! (Subscription: ~$99/year, but frequent discounts ~40%).
+- [Craft](https://www.craft.do) ★★★★ - note taking and organizing app (Subscription: $60/year, with a good free tier).
+- [Evernote](https://evernote.com) ★★★ - the workhorse of a note taking app. Low friction, high usability. Lots of integrations. Used to be great, now it's getting worse (and slower) with every release. (Subscription: ~$99/year, but frequent discounts ~40%).
 - [Mela](https://mela.recipes) ★★★★★ - simple, elegant and modern recipe manager. (Paid: $5)
 - [Ulysses](https://ulysses.app) ★★★★★ - writing app (Subscription: $50/year).
 
