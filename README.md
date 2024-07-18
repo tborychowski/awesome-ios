@@ -47,11 +47,12 @@ Related list: [awesome-mac](https://github.com/tborychowski/awesome-mac)
 
 
 # Mobile Scanners
-- [Evernote Scannable](https://apps.apple.com/us/app/evernote-scannable/id883338188) ★★★★ - best of all tested. Quickly scans & saves to Photos (not too many taps required). Straightens the scans & applies some color filters and does not constantly nag to upgrade or pay like many others.
+- [Evernote Scannable](https://apps.apple.com/us/app/evernote-scannable/id883338188) ★★ - used to be the best, now it's not usable. Cannot save scanned images to photos.
 - [Adobe Scan: PDF & OCR Scanner](https://apps.apple.com/us/app/adobe-scan-pdf-ocr-scanner/id1199564834) ★★ - requires account! (Subscription: $10/m).
 - [Scanner Pro](https://apps.apple.com/us/app/scanner-pro-document-scanning/id333710667) ★★★ - too many buttons and clicks, and useless functions, e.g. storing scans in iCloud requires pro, but syncing with iCloud doesn’t. Weird UI. Not a straightforward flow (e.g. saves docs to its own internal storage, and requres manually “exporting” them outside). Some basic functionality is free, but full featured app is not. (Paid: $30)
 - [iScanner](https://apps.apple.com/us/app/iscanner-pdf-scanner-app/id1035331258) ★★ - lots of functions, most of which, when clicked - popup a "Pro" screen, asking for money. Convoluted workflow (lots of taps required to scan and save to photos). Scans don’t look great. (Paid: $15)
 - [Tiny PDF Scanner](https://apps.apple.com/us/app/tiny-pdf-scanner/id1105479069) ★★ - lots of functions, most of which, when clicked - popup a “Premium” screen, asking for money. Convoluted workflow (lots of taps required to scan and save to photos), scans don’t look great. (Paid $3)
+- [Prizmo](https://creaceed.com/iprizmo) ★★★★ - Currently seems to be the best iOS scanner app out there. Does everything Scannable used to do and more. (Paid €24)
 
 
 
@@ -73,7 +74,7 @@ Related list: [awesome-mac](https://github.com/tborychowski/awesome-mac)
 # Social, News & Internet
 - [Readwise Reader](https://readwise.io/read) ★★★★ - A fantastic read-it-later app that in conjunction with the readwise service (syncing highlights between your reader, books, kindle and your pkn/notes apps) is unstoppable (Sub: $96/yr while in beta).
 - [Reeder](https://reederapp.com) ★★★★★ - The best RSS reader for Apple devices (Paid: $10).
-- [Spark](https://sparkmailapp.com) ★★★★ - Email client from Readdle. One of the best out there (if you're using anything else than gmail) (Basic: free, full featured, including some AI: €70/yr).
+- [Spark](https://sparkmailapp.com) ★★*★ - Email client from Readdle. One of the best out there (if you're using anything else than gmail) (Basic: free, full featured, including some AI: €70/yr).
 
 
 
