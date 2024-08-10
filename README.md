@@ -39,20 +39,21 @@ Related list: [awesome-mac](https://github.com/tborychowski/awesome-mac)
 
 # Notes and writing
 - [Bear](https://bear.app/) ★★★ - note taking (Subscription: $30/year).
-- [Craft](https://www.craft.do) ★★★ - note taking and organizing app (Subscription: $60/year, with a limited free option).
-- [Evernote](https://evernote.com) ★★★★★ - the ultimate workhorse of a note taking app. Minimum friction, maximum usability, integrates with everything and has everything I need. Oh, and no markdown!! (Subscription: ~$99/year, but frequent discounts ~40%).
+- [Craft](https://www.craft.do) ★★★★ - note taking and organizing app (Subscription: $60/year, with a good free tier).
+- [Evernote](https://evernote.com) ★★★ - the workhorse of a note taking app. Low friction, high usability. Lots of integrations. Used to be great, now it's getting worse (and slower) with every release. (Subscription: ~$99/year, but frequent discounts ~40%).
 - [Mela](https://mela.recipes) ★★★★★ - simple, elegant and modern recipe manager. (Paid: $5)
 - [Ulysses](https://ulysses.app) ★★★★★ - writing app (Subscription: $50/year).
 
 
 
 # Mobile Scanners
-- [Evernote Scannable](https://apps.apple.com/us/app/evernote-scannable/id883338188) ★ - used to be the best, but not any more. It can only save to Evernote.
+- [Evernote Scannable](https://apps.apple.com/us/app/evernote-scannable/id883338188) ★★ - used to be the best, now it's not usable. Cannot save scanned images to photos.
 - [Adobe Scan: PDF & OCR Scanner](https://apps.apple.com/us/app/adobe-scan-pdf-ocr-scanner/id1199564834) ★★ - requires account! (Subscription: $10/m).
 - [Scanner Pro](https://apps.apple.com/us/app/scanner-pro-document-scanning/id333710667) ★★★ - too many buttons and clicks, and useless functions, e.g. storing scans in iCloud requires pro, but syncing with iCloud doesn’t. Weird UI. Not a straightforward flow (e.g. saves docs to its own internal storage, and requres manually “exporting” them outside). Some basic functionality is free, but full featured app is not. (Paid: $30)
 - [iScanner](https://apps.apple.com/us/app/iscanner-pdf-scanner-app/id1035331258) ★★ - lots of functions, most of which, when clicked - popup a "Pro" screen, asking for money. Convoluted workflow (lots of taps required to scan and save to photos). Scans don’t look great. (Paid: $15)
 - [Tiny PDF Scanner](https://apps.apple.com/us/app/tiny-pdf-scanner/id1105479069) ★★ - lots of functions, most of which, when clicked - popup a “Premium” screen, asking for money. Convoluted workflow (lots of taps required to scan and save to photos), scans don’t look great. (Paid $3)
-- [Prizmo](https://creaceed.com/iprizmo) ★★★★ - Excellent scanning app, with OCR and lots of features.
+- [Prizmo](https://creaceed.com/iprizmo) ★★★★ - Currently seems to be the best iOS scanner app out there. Does everything Scannable used to do and more. (Paid €24)
+
 
 
 # Games, Music, Life and Other
@@ -73,7 +74,7 @@ Related list: [awesome-mac](https://github.com/tborychowski/awesome-mac)
 # Social, News & Internet
 - [Readwise Reader](https://readwise.io/read) ★★★★ - A fantastic read-it-later app that in conjunction with the readwise service (syncing highlights between your reader, books, kindle and your pkn/notes apps) is unstoppable (Sub: $96/yr while in beta).
 - [Reeder](https://reederapp.com) ★★★★★ - The best RSS reader for Apple devices (Paid: $10).
-- [Spark](https://sparkmailapp.com) ★★★★ - Email client from Readdle. One of the best out there (if you're using anything else than gmail) (Basic: free, full featured, including some AI: €70/yr).
+- [Spark](https://sparkmailapp.com) ★★*★ - Email client from Readdle. One of the best out there (if you're using anything else than gmail) (Basic: free, full featured, including some AI: €70/yr).
 
 
 
