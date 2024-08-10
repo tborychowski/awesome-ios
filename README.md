@@ -47,12 +47,12 @@ Related list: [awesome-mac](https://github.com/tborychowski/awesome-mac)
 
 
 # Mobile Scanners
-- [Evernote Scannable](https://apps.apple.com/us/app/evernote-scannable/id883338188) ★★★★ - best of all tested. Quickly scans & saves to Photos (not too many taps required). Straightens the scans & applies some color filters and does not constantly nag to upgrade or pay like many others.
+- [Evernote Scannable](https://apps.apple.com/us/app/evernote-scannable/id883338188) ★ - used to be the best, but not any more. It can only save to Evernote.
 - [Adobe Scan: PDF & OCR Scanner](https://apps.apple.com/us/app/adobe-scan-pdf-ocr-scanner/id1199564834) ★★ - requires account! (Subscription: $10/m).
 - [Scanner Pro](https://apps.apple.com/us/app/scanner-pro-document-scanning/id333710667) ★★★ - too many buttons and clicks, and useless functions, e.g. storing scans in iCloud requires pro, but syncing with iCloud doesn’t. Weird UI. Not a straightforward flow (e.g. saves docs to its own internal storage, and requres manually “exporting” them outside). Some basic functionality is free, but full featured app is not. (Paid: $30)
 - [iScanner](https://apps.apple.com/us/app/iscanner-pdf-scanner-app/id1035331258) ★★ - lots of functions, most of which, when clicked - popup a "Pro" screen, asking for money. Convoluted workflow (lots of taps required to scan and save to photos). Scans don’t look great. (Paid: $15)
 - [Tiny PDF Scanner](https://apps.apple.com/us/app/tiny-pdf-scanner/id1105479069) ★★ - lots of functions, most of which, when clicked - popup a “Premium” screen, asking for money. Convoluted workflow (lots of taps required to scan and save to photos), scans don’t look great. (Paid $3)
-
+- [Prizmo](https://creaceed.com/iprizmo) ★★★★ - Excellent scanning app, with OCR and lots of features.
 
 
 # Games, Music, Life and Other
@@ -60,7 +60,7 @@ Related list: [awesome-mac](https://github.com/tborychowski/awesome-mac)
 - [Lichess](https://lichess.org/mobile) ★★★ - less bloated than the chess.com and has unlimited free puzzles.
 - [SongShift](https://songshift.com) ★★★ - transfer playlists between music services (Subscription, $20/y).
 - [Blank Spaces](https://www.blankspaces.app) ★★★ - Remove all distraction from your iPhone: provides blank widgets, dock-hiding wallpapers, and a simple widget with a textual list of the most important apps. (Subscription: €15/y, lifetime: €25).
-
+- [Weather](https://weather.amir.app) ★★★★ - simple and free weather app with a nice widget.
 
 
 # Productivity & automation
