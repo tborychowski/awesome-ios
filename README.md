@@ -27,6 +27,7 @@ Related list: [awesome-mac](https://github.com/tborychowski/awesome-mac)
 # Bookmarks & collection managers
 - [Anybox](https://anybox.app) ★★★★ - best bookmark storage app (Sub: $15/yr, lifetime: $40)
 - [GoodLinks](https://goodlinks.app) ★★★ - quite good for the purpose (Paid: $5)
+- [Flyleaf](https://moehrenzahn.de/project/flyleaf/) ★★★★ - good looking read-it-later app (Freemium)
 
 
 # Development
