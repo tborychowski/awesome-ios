@@ -72,7 +72,8 @@ Related list: [awesome-mac](https://github.com/tborychowski/awesome-mac)
 
 
 
-# Social, News & Internet
+# Reading, News & Internet
+- [Maple Read](https://www.maplepop.com/) ★★★★ - A good apple books alternative. Can use any custom font and reads epub & pdfs (SE version: €9).
 - [Readwise Reader](https://readwise.io/read) ★★★★ - A fantastic read-it-later app that in conjunction with the readwise service (syncing highlights between your reader, books, kindle and your pkn/notes apps) is unstoppable (Sub: $96/yr while in beta).
 - [Reeder](https://reederapp.com) ★★★★★ - The best RSS reader for Apple devices (Paid: $10).
 - [Spark](https://sparkmailapp.com) ★★*★ - Email client from Readdle. One of the best out there (if you're using anything else than gmail) (Basic: free, full featured, including some AI: €70/yr).
