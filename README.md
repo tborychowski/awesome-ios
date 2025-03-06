@@ -53,7 +53,7 @@ Related list: [awesome-mac](https://github.com/tborychowski/awesome-mac)
 - [Scanner Pro](https://apps.apple.com/us/app/scanner-pro-document-scanning/id333710667) ★★★ - too many buttons and clicks, and useless functions, e.g. storing scans in iCloud requires pro, but syncing with iCloud doesn’t. Weird UI. Not a straightforward flow (e.g. saves docs to its own internal storage, and requres manually “exporting” them outside). Some basic functionality is free, but full featured app is not. (Paid: $30)
 - [iScanner](https://apps.apple.com/us/app/iscanner-pdf-scanner-app/id1035331258) ★★ - lots of functions, most of which, when clicked - popup a "Pro" screen, asking for money. Convoluted workflow (lots of taps required to scan and save to photos). Scans don’t look great. (Paid: $15)
 - [Tiny PDF Scanner](https://apps.apple.com/us/app/tiny-pdf-scanner/id1105479069) ★★ - lots of functions, most of which, when clicked - popup a “Premium” screen, asking for money. Convoluted workflow (lots of taps required to scan and save to photos), scans don’t look great. (Paid $3)
-- [Prizmo](https://creaceed.com/iprizmo) ★★★★ - Currently seems to be the best iOS scanner app out there. Does everything Scannable used to do and more. (Paid €24)
+- [Prizmo](https://creaceed.com/iprizmo) ★★★★★ - Currently seems to be the best iOS scanner app out there. Does everything Scannable used to do and more. (Paid €24)
 
 
 
@@ -63,6 +63,7 @@ Related list: [awesome-mac](https://github.com/tborychowski/awesome-mac)
 - [SongShift](https://songshift.com) ★★★ - transfer playlists between music services (Subscription, $20/y).
 - [Blank Spaces](https://www.blankspaces.app) ★★★ - Remove all distraction from your iPhone: provides blank widgets, dock-hiding wallpapers, and a simple widget with a textual list of the most important apps. (Subscription: €15/y, lifetime: €25).
 - [Weather](https://weather.amir.app) ★★★★ - simple and free weather app with a nice widget.
+- [Barcodes](https://apps.apple.com/ie/app/barcodes-loyalty-card-wallet/id1610894014) ★★★★★ - best store loyalty card wallet. Can import barcodes from photos and add cards to apple wallet (in groups or separately) (Free: 3 cards. Paid: €13).
 
 
 # Productivity & automation
