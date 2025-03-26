@@ -35,7 +35,7 @@ Related list: [awesome-mac](https://github.com/tborychowski/awesome-mac)
 - [ShellFish](https://secureshellfish.app) ★★★★ - second best ssh terminal emulator on mobile. (Subscription: $10/y or Lifetime: $40)
 - [Termix](https://termix.app) ★★★★★ - the best ssh client & terminal emulator for ios (Paid: $10)
 - [Textastic](https://www.textasticapp.com) ★★★ - pretty neat code editor on a phone (or tablet). (Paid: $10)
-- [Web Inspector for iOS](https://andadinosaur.com/launch-web-inspector-for-ios) *** - web inspector for iOS Safari.
+- [Web Inspector for iOS](https://andadinosaur.com/launch-web-inspector-for-ios) ★★★ - web inspector for iOS Safari.
 - [Working Copy](https://workingcopy.app) ★★★ - as far as git on mobile goes - this is probably the best one can get. (Paid: $20)
 
 
